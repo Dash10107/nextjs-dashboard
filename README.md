@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+This is an Acme dashboard built in Next.js. 
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Live at: https://nextjs-dashboard-theta-smoky-12.vercel.app/
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+You can also learn Next.js and build this beautiful dashboard through Next.js Docs : https://nextjs.org/learn/dashboard-app
