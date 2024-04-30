@@ -29,6 +29,7 @@ async function createUser(name:string,email: string, password: string): Promise<
 
 export const { auth, signIn, signOut } = NextAuth({
   ...authConfig,
+  secret:process.env.AUTH_SECRET,
   providers: [
     Credentials({
       async authorize(credentials) {
